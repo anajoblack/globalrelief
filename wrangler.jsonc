@@ -28,9 +28,6 @@
 	"images": {
 		"binding": "IMAGES"
 	},
-	"build": {
-		"command": "npx opennextjs-cloudflare build"
-	},
 	"observability": {
 		"enabled": true
 	}
